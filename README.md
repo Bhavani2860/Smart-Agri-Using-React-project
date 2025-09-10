@@ -38,9 +38,3 @@ requirements.txt
 README.md
 ```
 
-## Interview Points
-- Demonstrates full-stack development skills
-- Shows understanding of agritech domain
-- Clean and maintainable code
-- Responsive design for mobile and desktop
-- Integration with external APIs
